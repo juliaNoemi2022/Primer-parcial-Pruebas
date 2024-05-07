@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U7HVfbm1mnpu3O4neQWQkINkItFx2bjSM7obZw7Pv7hM1qeXJsadtFyLxrtbFLwWHsFOxunbRfXtVgzVyq6Sdw==",
+  "dgSpecHash": "7XDiK6HoU5Cya897jYTYQr/DTKmSpNXigclCgFNm++ZJ7qvkmPJQgpFLH8+WPgYL5K2d7aO4sG9YHFjnJcLaXg==",
   "success": true,
-  "projectFilePath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba_Test\\Programa_Prueba_Test.csproj",
+  "projectFilePath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Test ProcesadorMatematico\\Test ProcesadorMatematico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jalatec-1\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\jalatec-1\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

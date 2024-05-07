@@ -1712,16 +1712,6 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
-      },
-      "Programa_A_probar/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Programa_A_probar.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Programa_A_probar.dll": {}
-        }
       }
     }
   },
@@ -5516,17 +5506,11 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "Programa_A_probar/1.0.0": {
-      "type": "project",
-      "path": "../Programa_Prueba/Programa_A_probar.csproj",
-      "msbuildProject": "../Programa_Prueba/Programa_A_probar.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.5.0",
-      "Programa_A_probar >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5538,11 +5522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba_Test\\Programa_Prueba_Test.csproj",
-      "projectName": "Programa_Prueba_Test",
-      "projectPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba_Test\\Programa_Prueba_Test.csproj",
+      "projectUniqueName": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Test ProcesadorMatematico\\Test ProcesadorMatematico.csproj",
+      "projectName": "Test ProcesadorMatematico",
+      "projectPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Test ProcesadorMatematico\\Test ProcesadorMatematico.csproj",
       "packagesPath": "C:\\Users\\jalatec-1\\.nuget\\packages\\",
-      "outputPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba_Test\\obj\\",
+      "outputPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Test ProcesadorMatematico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jalatec-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5558,11 +5542,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba\\Programa_A_probar.csproj": {
-              "projectPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba\\Programa_A_probar.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

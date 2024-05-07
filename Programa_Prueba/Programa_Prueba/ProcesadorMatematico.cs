@@ -8,7 +8,7 @@ namespace Progama_A_Probar
 {
     public class ProcesadorMatematico
     {
-        private int _resultado;
+        public  int _resultado;
 
         public void Sumar(int primerNumero, int segundoNumero)
         {

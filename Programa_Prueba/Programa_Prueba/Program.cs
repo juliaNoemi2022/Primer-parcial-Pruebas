@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace Programa_Prueba
+namespace Programa_A_Probar
+
 {
     class Program
     {

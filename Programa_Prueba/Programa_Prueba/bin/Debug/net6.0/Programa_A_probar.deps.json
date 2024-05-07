@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Programa_A_probar/1.0.0": {
+        "runtime": {
+          "Programa_A_probar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa_A_probar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\bin\Debug\net6.0\Programa_A_probar.exe
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\bin\Debug\net6.0\Programa_A_probar.deps.json
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\bin\Debug\net6.0\Programa_A_probar.runtimeconfig.json
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\bin\Debug\net6.0\Programa_A_probar.dll
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\bin\Debug\net6.0\Programa_A_probar.pdb
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\Programa_A_probar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\Programa_A_probar.AssemblyInfoInputs.cache
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\Programa_A_probar.AssemblyInfo.cs
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\Programa_A_probar.csproj.CoreCompileInputs.cache
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\Programa_A_probar.dll
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\refint\Programa_A_probar.dll
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\Programa_A_probar.pdb
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\Programa_A_probar.genruntimeconfig.cache
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba\obj\Debug\net6.0\ref\Programa_A_probar.dll

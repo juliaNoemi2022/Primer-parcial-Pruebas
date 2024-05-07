@@ -1,0 +1,5 @@
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba_Test\obj\Debug\net6.0\Programa_Prueba_Test.csproj.AssemblyReference.cache
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba_Test\obj\Debug\net6.0\Programa_Prueba_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba_Test\obj\Debug\net6.0\Programa_Prueba_Test.AssemblyInfoInputs.cache
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba_Test\obj\Debug\net6.0\Programa_Prueba_Test.AssemblyInfo.cs
+D:\Primer Parcial Pruebas\Programa_Prueba\Programa_Prueba_Test\obj\Debug\net6.0\Programa_Prueba_Test.csproj.CoreCompileInputs.cache
