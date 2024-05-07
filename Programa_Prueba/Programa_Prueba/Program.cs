@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace primer_parcial_unit_test_procesador_matematico
+namespace Programa_Prueba
 {
     class Program
     {

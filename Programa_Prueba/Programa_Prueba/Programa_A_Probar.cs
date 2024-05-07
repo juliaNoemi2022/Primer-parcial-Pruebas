@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace primer_parcial_unit_test_procesador_matematico
+namespace Progama_A_Probar
 {
     public class ProcesadorMatematico
     {

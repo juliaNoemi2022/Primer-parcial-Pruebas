@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba\\Programa_Prueba.csproj",
-      "projectName": "Programa_Prueba",
-      "projectPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba\\Programa_Prueba.csproj",
+      "projectUniqueName": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba\\Programa_A_probar.csproj",
+      "projectName": "Programa_A_probar",
+      "projectPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba\\Programa_A_probar.csproj",
       "packagesPath": "C:\\Users\\jalatec-1\\.nuget\\packages\\",
       "outputPath": "D:\\Primer Parcial Pruebas\\Programa_Prueba\\Programa_Prueba\\obj\\",
       "projectStyle": "PackageReference",
